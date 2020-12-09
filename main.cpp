@@ -6,7 +6,7 @@
 using namespace std;
 void menu() {
     cout << "\n__________________________________________";
-    cout << "\n\n --SUPER PUPER PROGRAMMA FOR TEACHERS--";
+    cout << "\n\n --(Название в разработке)--";
     cout << "\n                --(BIA)--";
     cout << "\n__________________________________________";
     cout << "\n\n1. Вывести список ";

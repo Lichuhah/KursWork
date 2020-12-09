@@ -1,2 +1,4 @@
 D:\Учеба\2 семестр\Курсач\KursWork_Belov4932\Debug\KursWork_Belov4932.exe
 D:\Учеба\2 семестр\Курсач\KursWork_Belov4932\Debug\KursWork_Belov4932.pdb
+D:\Учеба\2 семестр\Курсач\KursWork\Debug\KursWork_Belov4932.exe
+D:\Учеба\2 семестр\Курсач\KursWork\Debug\KursWork_Belov4932.pdb
